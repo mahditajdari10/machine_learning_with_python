@@ -1,7 +1,7 @@
 # Welcome to My Data Science Projects Repository!
 Welcome to my Data Science Projects repository! This repository contains a curated collection of my data science projects, each designed to showcase my skills and expertise in various aspects of data science. From data analysis and machine learning to data visualization, each project demonstrates different techniques and methodologies that are essential in the field of data science.
 # Project 
-# [Titanic Survival Prediction](https://github.com )
+# [Titanic Survival Prediction](https://github.com/mahditajdari10/machine_learning_with_python )
 
 ## Description
 This project aims to predict the survival of passengers on the Titanic using machine learning techniques. The dataset contains various features such as passenger age, gender, ticket class, and more. The goal is to build a model that can accurately predict whether a passenger survived the tragic sinking of the Titanic.
