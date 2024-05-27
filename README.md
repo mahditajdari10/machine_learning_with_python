@@ -22,3 +22,13 @@ This project aims to predict medical insurance prices using various machine lear
 
 ## Results
 The Random Forest Regressor achieved an accuracy score of **95%**, demonstrating its effectiveness in predicting medical insurance prices with high accuracy.
+# [Heart Stroke Prediction](https://github.com/your-username/your-repo-name)
+
+## Description
+This project aims to predict the likelihood of heart stroke using various machine learning techniques. The dataset includes features such as age, gender, hypertension, heart disease, ever married, work type, residence type, average glucose level, BMI, and smoking status. The goal is to build a model that can accurately predict the risk of a heart stroke based on these features.
+
+Additionally, the **SMOTE (Synthetic Minority Over-sampling Technique)** was used to address class imbalance in the dataset, enhancing the model's ability to predict strokes accurately.
+
+## Results
+The Random Forest Classifier, combined with SMOTE for balancing the dataset, achieved an accuracy score of **99%**, demonstrating its high effectiveness in predicting heart stroke risk.
+
