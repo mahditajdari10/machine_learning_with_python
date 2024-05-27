@@ -15,3 +15,10 @@ This project aims to predict house prices in Delhi using various machine learnin
 
 ## Results
 The ensemble approach combining Gradient Boosting Regressor, XGBoost Regressor, and Random Forest Regressor achieved an accuracy score of **90%**, demonstrating the effectiveness of using multiple models to enhance predictive performance.
+# [Medical Insurance Price Prediction](https://github.com/your-username/your-repo-name)
+
+## Description
+This project aims to predict medical insurance prices using various machine learning techniques. The dataset includes features such as age, sex, BMI, number of children, smoking status, and region. The goal is to build a model that can accurately predict the price of medical insurance based on these features.
+
+## Results
+The Random Forest Regressor achieved an accuracy score of **95%**, demonstrating its effectiveness in predicting medical insurance prices with high accuracy.
