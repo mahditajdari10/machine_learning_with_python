@@ -8,7 +8,8 @@ This project aims to predict the survival of passengers on the Titanic using mac
 
 ## Results
 The ensemble approach combining XGBoost and Random Forest classifiers achieved an accuracy score of **89%**, demonstrating the effectiveness of using multiple models to enhance predictive performance.
-# [Delhi House Price Prediction](https://github.com/your-username/your-repo-name)
+# [Delhi House Price Prediction](https://github.com/mahditajdari10/machine_learning_with_python/blob/main/Titanic_Project/your-notebook-file.ipynb)
+
 
 ## Description
 This project aims to predict house prices in Delhi using various machine learning techniques. The dataset includes features such as the number of bathroom, location, square footage, and more. The goal is to build a model that can accurately predict house prices based on these features.
