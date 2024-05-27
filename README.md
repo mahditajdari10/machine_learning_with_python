@@ -1,4 +1,4 @@
-# Welcome to My Data Science Projects Repository!
+# Welcome to My Data Science Projects Repository !
 Welcome to my Data Science Projects repository! This repository contains a curated collection of my data science projects, each designed to showcase my skills and expertise in various aspects of data science. From data analysis and machine learning to data visualization, each project demonstrates different techniques and methodologies that are essential in the field of data science.
 # Project 
 # [Titanic Survival Prediction](https://github.com/mahditajdari10/machine_learning_with_python/tree/main/Titanic%20Project)
